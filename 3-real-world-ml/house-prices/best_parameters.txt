@@ -1,0 +1,7 @@
+{'alpha': 0.0036717107995702758,
+ 'fit_intercept': True,
+ 'learning_rate': 'adaptive',
+ 'max_iter': 3400,
+ 'penalty': 'elasticnet',
+ 'random_state': 55,
+ 'shuffle': True}
